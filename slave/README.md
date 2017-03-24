@@ -47,7 +47,7 @@ Caso o host slave seja o proprio docker-host execute o comando abaixo, caso cont
 Coloque os dados conforme exemplo a seguir:
 
 - Nome: *slave-host*
--  # of executors: *1*
+- of executors: *1*
 - Remote root directory: */home/user-jenkins/*
 - Labels: *slave-host*
 - Launch method: *Launch agents via ssh*
