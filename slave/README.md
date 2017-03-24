@@ -74,7 +74,7 @@ Altere somente os campos:
 Coloque os dados conforme exemplo a seguir:
 
 - Nome: *slave-host*
--  # of executors: *1*
+- of executors: *1*
 - Remote root directory: */home/user-jenkins/*
 - Labels: *slave-host*
 - Launch method: *Launch agent via Java Web Start*
